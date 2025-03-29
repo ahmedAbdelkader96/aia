@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/aia.iml" filepath="$PROJECT_DIR$/.idea/aia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/aia_android.iml" filepath="$PROJECT_DIR$/android/aia_android.iml" />
     </modules>
   </component>
 </project>
